@@ -5,6 +5,15 @@
 
 ![The Team](https://github.com/Rising-Stars-by-Sunshine/SW-DKU-2022-Team/blob/main/Group_Photos/Team%402x.png)
 
+
+## The Placements
+
+![The placements](https://github.com/Rising-Stars-by-Sunshine/SW-DKU-2022-Team/blob/main/Group_Photos/dku_sw_2022_placement.png)
+
+## The Signature Work Products
+![The placements](https://github.com/Rising-Stars-by-Sunshine/SW-DKU-2022-Team/blob/main/Group_Photos/dku_sw_2022.png)
+
+
 ### Ao, Ziqiao
 - [Website](https://rs.pubpub.org/ziqiaoao)
 
