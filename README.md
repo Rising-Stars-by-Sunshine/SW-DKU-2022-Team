@@ -3,7 +3,7 @@
 ## The Team
 
 
-![The Team](http://url/to/img.png)
+![The Team](https://github.com/Rising-Stars-by-Sunshine/SW-DKU-2022-Team/blob/main/Group_Photos/Team%402x.png)
 
 ### Ao, Ziqiao
 - [Website](https://rs.pubpub.org/ziqiaoao)
