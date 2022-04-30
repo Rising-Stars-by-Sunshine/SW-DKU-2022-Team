@@ -22,20 +22,20 @@
 
 -[GitHub](https://github.com/jennlee5703/SW) 
 
-## Cavallero, Francesco
+## Tian, Lewis
 
--[Website]()
+-[Website](https://rs.pubpub.org/lewis-tian)
 
--[GitHub]() 
+-[GitHub](https://github.com/Lewis727/blockchain_decentralization_and_performance) 
 
-## Cavallero, Francesco
+## Yu, Haoxin
 
--[Website]()
+-[Website](https://rs.pubpub.org/haoxin-yu)
 
--[GitHub]() 
+-[GitHub](https://github.com/peterhi111/SW-Project-MEV) 
 
-## Cavallero, Francesco
+## Zhu, Ray
 
--[Website]()
+-[Website](https://rs.pubpub.org/ray-zhu-sw-product)
 
--[GitHub]() 
+-[GitHub](https://github.com/Ray88888888/Ray-Zhu-SW-Product-Spring-2022-Investment-in-Digital-Assets-Delegate-to-AI-or-Not) 
