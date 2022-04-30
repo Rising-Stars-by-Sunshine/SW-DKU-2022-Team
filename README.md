@@ -1,1 +1,1 @@
-# SW-DKU-2022-Team
+# Signature Work Mentees, Class of 2022, Duke Kunshan University
