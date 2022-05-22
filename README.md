@@ -25,6 +25,8 @@
 
 - [Flipbook](https://heyzine.com/flip-book/08a83090bf.html)
 
+- [Graduation with Distinction](https://github.com/Rising-Stars-by-Sunshine/SW-DKU-2022-Team/tree/main/graduation_with_distinction_ziqiao)
+
 ### Cavallero, Francesco
 
 - [Website](https://rs.pubpub.org/francesco-cavallero)
@@ -74,3 +76,5 @@
 - [PDF](https://github.com/Rising-Stars-by-Sunshine/SW-DKU-2022-Team/blob/main/SWProductPDFs/jz294_JiashengZhu_LuyaoZhang_SWProduct.pdf)
 
 - [Flipbook](https://heyzine.com/flip-book/c89e13183c.html)
+
+- [Latin Honor](https://github.com/Rising-Stars-by-Sunshine/SW-DKU-2022-Team/tree/main/Ray-Zhu-Latin-Honor)
